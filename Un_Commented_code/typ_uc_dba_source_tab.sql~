@@ -1,3 +1,0 @@
-CREATE OR REPLACE
-TYPE       typ_uc_dba_source_tab IS TABLE OF typ_uc_dba_source_rec
-/
